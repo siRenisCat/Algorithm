@@ -4,7 +4,7 @@
   3. 层数：结点的深度+1
   4. 树的高度：根结点的高度
 
-![Alt text](https://weibeld.net/algorithms/assets/tree-terminology.svg)
+![Alt text](https://weibeld.net/algorithms/assets/tree-terminology.svg =250x250)
 
 树的不同种类
   1. 满二叉树
