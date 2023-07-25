@@ -4,6 +4,8 @@
   层数：结点的深度+1
   树的高度：根结点的高度
 
+![Alt text](https://weibeld.net/algorithms/assets/tree-terminology.svg)
+
 树的不同种类
   满二叉树
   完全二叉树
