@@ -7,14 +7,16 @@
 ![Alt text](https://weibeld.net/algorithms/assets/tree-terminology.svg)
 
 树的不同种类
-  满二叉树
-  完全二叉树
+  1. 满二叉树
+  2. 完全二叉树
+
+  ![Alt text](https://fatedeity.cn/posts/data-structure-algorithm/assets/%e6%bb%a1%e4%ba%8c%e5%8f%89%e6%a0%91%e5%92%8c%e5%ae%8c%e5%85%a8%e4%ba%8c%e5%8f%89%e6%a0%91.png)
 
 树的存储方法
-  链式存储法
-  顺序存储法
+  1. 链式存储法
+  2. 顺序存储法
 
 树的遍历
-  前序遍历
-  中序遍历
-  后序遍历
+  1. 前序遍历
+  2. 中序遍历
+  3. 后序遍历
