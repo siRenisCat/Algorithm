@@ -4,13 +4,13 @@
   3. 层数：结点的深度+1
   4. 树的高度：根结点的高度
 
-<img src= https://weibeld.net/algorithms/assets/tree-terminology.svg width="50%" height=50%>
+<img src= https://weibeld.net/algorithms/assets/tree-terminology.svg width=80% height=80%>
 
 树的不同种类
   1. 满二叉树
   2. 完全二叉树
 
-  ![Alt text](https://fatedeity.cn/posts/data-structure-algorithm/assets/%e6%bb%a1%e4%ba%8c%e5%8f%89%e6%a0%91%e5%92%8c%e5%ae%8c%e5%85%a8%e4%ba%8c%e5%8f%89%e6%a0%91.png)
+  <img src= https://fatedeity.cn/posts/data-structure-algorithm/assets/%e6%bb%a1%e4%ba%8c%e5%8f%89%e6%a0%91%e5%92%8c%e5%ae%8c%e5%85%a8%e4%ba%8c%e5%8f%89%e6%a0%91.png width=80% height=80%>
 
 树的存储方法
   1. 链式存储法
